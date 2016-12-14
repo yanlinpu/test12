@@ -1,5 +1,5 @@
 # test12
 
-creator
+creater
 
-同一
+同样
